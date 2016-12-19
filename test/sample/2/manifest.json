@@ -1,0 +1,10 @@
+{
+  "checkList": {
+    "jsCache-master/*.md": [
+      "if the right HTTP header",
+      "https://github.com/mortzdk/localStorage"
+    ]
+  },
+  "blackList": {
+  }
+}

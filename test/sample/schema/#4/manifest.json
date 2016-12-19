@@ -1,0 +1,12 @@
+{
+  "blackList": {
+    "**/*.js": [
+      "/\"readystatechange\",\\s?\"loaded\"/igm"
+    ]
+  },
+  "checkList": {
+    "test": [
+      123456
+    ]
+  }
+}

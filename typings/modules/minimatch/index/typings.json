@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/c377a484e5f28967152ea8d85bc0f49c79eca090/minimatch/index.d.ts",
+    "raw": "registry:dt/minimatch/index#2.0.8+20160427172752",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/c377a484e5f28967152ea8d85bc0f49c79eca090/minimatch/index.d.ts"
+  }
+}

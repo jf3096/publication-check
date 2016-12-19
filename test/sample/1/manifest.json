@@ -1,0 +1,12 @@
+{
+  "checkList": {
+    "jsCache-master/README.md": [
+      "jsCache is especially useful when serving your website for mobile phones as it"
+    ]
+  },
+  "blackList": {
+    "**/*.md": [
+      "#Cross-browser compatibility"
+    ]
+  }
+}

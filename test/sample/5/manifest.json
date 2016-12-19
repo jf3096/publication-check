@@ -1,0 +1,9 @@
+{
+  "blackList": {
+  },
+  "checkList": {
+    "**/*.js": [
+      "/DOMContentLoaded.*?loaded/"
+    ]
+  }
+}

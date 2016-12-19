@@ -1,0 +1,10 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/types/npm-vinyl/677de6fa085d573d10ce8c26f14309f0b12af285/typings.json",
+    "raw": "registry:npm/vinyl#1.2.0+20161017220031",
+    "main": "index.d.ts",
+    "version": "1.2.0",
+    "name": "vinyl"
+  }
+}

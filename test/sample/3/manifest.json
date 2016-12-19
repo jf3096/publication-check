@@ -1,0 +1,9 @@
+{
+  "checkList": {
+    "**/*.js": [
+      "window.document"
+    ]
+  },
+  "blackList": {
+  }
+}
