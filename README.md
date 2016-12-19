@@ -98,7 +98,3 @@ blackList在这里表示当前发布包的某文件下<b>禁止包含</b> <某�
       }
     }
 ```
-
-### Screenshot
-Here is a normal case if you use this library correctly
-![alt tag](/git-img/success.png)
