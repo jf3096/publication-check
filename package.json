@@ -1,6 +1,6 @@
 {
   "name": "publication-check",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A tool helps verify if the publication tar/zip file valid as expect",
   "bin": "./bin/index.js",
   "main": "index.js",
