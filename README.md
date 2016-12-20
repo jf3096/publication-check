@@ -1,3 +1,5 @@
+# 最后测试阶段, 暂不要使用
+
 # publication-check
 [![NPM](https://nodei.co/npm/tinypng-loader-cli.png)](https://www.npmjs.com/package/tinypng-loader-cli)
 
@@ -35,7 +37,9 @@ npm install publication-check -g
 ```
 #### manifest文件配置
 配置文件<b>必须包含</b>:
+    
     > checkList
+    
     > blackList
 
 checkList在这里表示当前发布包的某文件下<b>必须包含</b> <某字段> 或 <某正则>
