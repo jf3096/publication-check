@@ -1,7 +1,7 @@
 # 最后测试阶段, 暂不要使用
 
 # publication-check
-[![NPM](https://nodei.co/npm/tinypng-loader-cli.png)](https://www.npmjs.com/package/tinypng-loader-cli)
+[![NPM](https://nodei.co/npm/publication-check.png)](https://www.npmjs.com/package/publication-check)
 
 ## 简介
 publication-check 顾名思义, 一个用于为发布包而开发的校验工具。项目开发完成后，项目可以使用gulp，fis，webpack等构建工具打包成zip，tar
