@@ -102,3 +102,6 @@ blackList在这里表示当前发布包的某文件下<b>禁止包含</b> <某�
       }
     }
 ```
+Roadmaps:
+1. 明确checkList和blackList合并后不会有side effect
+2. 制作gulp和webpack版
