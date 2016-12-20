@@ -36,6 +36,8 @@ npm install publication-check -g
     -m, --dest <value>    输入manifest配置文件路径
 ```
 #### manifest文件配置
+
+文件路径可以选用<b>通配符</b>, 匹配字段可用<b>正则</b>匹配,
 配置文件<b>必须包含</b>:
     
     > checkList
@@ -103,5 +105,7 @@ blackList在这里表示当前发布包的某文件下<b>禁止包含</b> <某�
     }
 ```
 Roadmaps:
+
 1. 明确checkList和blackList合并后不会有side effect
+
 2. 制作gulp和webpack版
